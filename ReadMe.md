@@ -1,0 +1,95 @@
+DTO left
+
+Supplier
+SupplierItemsResponse
+StoreItemsResponse
+
+SalesSummary
+SalesCustomSummary
+Sale
+Sale
+Sale Status Input
+Sale Resource Input
+Sale Pax Couny Input
+Sale Delivery Status Input
+Update Activity Status Input
+Create Reservation Input
+CreateReservationOutput
+Sale Target Input
+
+Customer Feedback
+CustomerInput
+CustomerPageResult
+CustomerFeedbackPageResult
+CustomerLoyaltyLot
+SalesResult
+SalesPageResult
+Item
+ItemsResult
+SoldOutItemsResult
+SoldOutItemsSaveRequest
+SoldOutItemsSaveResponse
+SoldOutItemsHistoryResponse
+Empty schema
+Error Schema
+PaymentsResult
+Payment Input
+Offline Payment Input
+Update Discount Input
+Change Delivery Mode
+BranchListResult[...]
+BranchTxnListResult[...]
+SalesSummaryMetric
+Item sold summary
+DiscountTransactionResult
+CouponInput
+CouponsInput
+InventoryTax
+SupplierCharges
+Indent
+PurchaseOrder
+GoodsReceivedNote
+Shrinkage
+Transfer
+TransferInput
+
+
+
+ItemStockOutput
+ItemStockInput
+InventoryItemInput
+InventoryItemResult
+Store item Input
+StoreItemStockResult
+SupplierItemInput
+SupplierItemResult
+StoreListResult
+SupplierInput
+IndentPageResult
+POPageResult
+GRNPageResult
+ShrinkagePageResult
+TransferPageResult
+ItemActivityResult
+ItemStockResult
+Webhooks
+BusinessHours
+AvailableReservationSlots
+Catalog
+EnterpriseCatalog
+CatalogItemsResponse
+CatalogItemsData
+CatalogSaveRequest
+CatalogInput
+PredefinedTagsstring
+predefined list of tags
+CatalogSyncRequest
+BranchChannelStatusInput
+CatalogSaveCallbackModel
+ContractInput
+Contract
+ContractData
+ContractItemInput
+ContractItemsResponse
+ContractItemsData
+ContractItemResult
