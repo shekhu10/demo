@@ -2,7 +2,10 @@ DTO left
 https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
 
-AvailableReservationSlots - A
+discounts
+items	
+optionSets
+from catalog are left
 
 
 Catalog

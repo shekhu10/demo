@@ -26,7 +26,7 @@ public class Customer {
     private List<Address> addresses;
 
     // Membership information
-    private Membership membership;
+    private CustomerMembership membership;
 
     // Loyalty information
     private LoyaltyInfo loyaltyInfo;

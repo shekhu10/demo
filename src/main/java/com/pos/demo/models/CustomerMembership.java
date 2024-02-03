@@ -1,6 +1,6 @@
 package com.pos.demo.models;
 
-public class Membership {
+public class CustomerMembership {
 
     // Membership name
     private String name;
