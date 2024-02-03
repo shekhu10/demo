@@ -3,9 +3,8 @@ https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
 
 AvailableReservationSlots - A
-BranchListResult
-BranchTxnListResult
-BusinessHours
+
+
 Catalog
 CatalogInput
 CatalogItemsData
