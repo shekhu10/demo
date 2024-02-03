@@ -2,8 +2,7 @@ DTO left
 https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
 
-AvailableReservationSlots
-BranchChannelStatusInput
+AvailableReservationSlots - A
 BranchListResult
 BranchTxnListResult
 BusinessHours
