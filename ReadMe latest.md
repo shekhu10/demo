@@ -1,11 +1,13 @@
 DTO left
-https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
+Supplier
+SupplierItemsResponse
+StoreItemsResponse
 
 SalesSummary
 SalesCustomSummary
 Sale
-post Sale
+Sale
 Sale Status Input
 Sale Resource Input
 Sale Pax Couny Input
@@ -14,13 +16,20 @@ Update Activity Status Input
 Create Reservation Input
 CreateReservationOutput
 Sale Target Input
+
 Customer Feedback
 CustomerInput
+CustomerPageResult
+CustomerFeedbackPageResult
 CustomerLoyaltyLot
+SalesResult
+SalesPageResult
 Item
+ItemsResult
 SoldOutItemsResult
 SoldOutItemsSaveRequest
 SoldOutItemsSaveResponse
+SoldOutItemsHistoryResponse
 Empty schema
 Error Schema
 PaymentsResult
@@ -32,6 +41,7 @@ BranchListResult[...]
 BranchTxnListResult[...]
 SalesSummaryMetric
 Item sold summary
+DiscountTransactionResult
 CouponInput
 CouponsInput
 InventoryTax
@@ -42,6 +52,9 @@ GoodsReceivedNote
 Shrinkage
 Transfer
 TransferInput
+
+
+
 ItemStockOutput
 ItemStockInput
 InventoryItemInput
@@ -52,6 +65,11 @@ SupplierItemInput
 SupplierItemResult
 StoreListResult
 SupplierInput
+IndentPageResult
+POPageResult
+GRNPageResult
+ShrinkagePageResult
+TransferPageResult
 ItemActivityResult
 ItemStockResult
 Webhooks
@@ -59,42 +77,19 @@ BusinessHours
 AvailableReservationSlots
 Catalog
 EnterpriseCatalog
+CatalogItemsResponse
 CatalogItemsData
 CatalogSaveRequest
 CatalogInput
-
+PredefinedTagsstring
 predefined list of tags
 CatalogSyncRequest
 BranchChannelStatusInput
 CatalogSaveCallbackModel
 ContractInput
-
-ContractItemInput
-
-ContractItemResult
-
-
-
-
-
-
-
-pagination DTO's
-Supplier
-SupplierItemsResponse
-StoreItemsResponse
-CustomerPageResult
-CustomerFeedbackPageResult
-SalesResult
-SalesPageResult
-ItemsResult
-SoldOutItemsHistoryResponse
-DiscountTransactionResult
-IndentPageResult
-POPageResult
-GRNPageResult
-ShrinkagePageResult
-TransferPageResult
-CatalogItemsResponse
 Contract
+ContractData
+ContractItemInput
 ContractItemsResponse
+ContractItemsData
+ContractItemResult
