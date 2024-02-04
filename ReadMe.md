@@ -2,22 +2,25 @@ DTO left
 https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
 
-discounts
-items	
-optionSets
-from catalog are left
 
 
-Catalog
+
+AvailableReservationSlots
+ContractInput
+ContractItemInput
+ContractItemResult
+Payment Input
+PaymentsResult
+
+
+
 CatalogInput
 CatalogItemsData
 CatalogSaveCallbackModel
 CatalogSaveRequest
 CatalogSyncRequest
 Change Delivery Mode
-ContractInput
-ContractItemInput
-ContractItemResult
+
 CouponInput
 CouponsInput
 Create Reservation Input
@@ -40,8 +43,6 @@ ItemStockInput
 ItemStockOutput
 ItemStockResult
 Offline Payment Input
-Payment Input
-PaymentsResult
 post Sale
 predefined list of tags
 PurchaseOrder

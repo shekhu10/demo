@@ -1,5 +1,7 @@
 package com.pos.demo.models;
 
+import com.pos.demo.models.enums.DiscountType;
+
 import java.util.List;
 
 public class Catalog {
@@ -16,7 +18,10 @@ public class Catalog {
 
     private List<RedemptionMembership> memberships;
 
+    private List<Discount> discounts;
 
+    private List<CatalogItem> items;
 
+    private List<OptionSet> optionSets;
 
 }
