@@ -2,25 +2,12 @@ DTO left
 https://ristaapps.com/api/documentation/#/Analytics/get_analytics_sales_summary
 
 
-
-
-
-AvailableReservationSlots
-ContractInput
-ContractItemInput
-ContractItemResult
-Payment Input
-PaymentsResult
-
-
-
 CatalogInput
 CatalogItemsData
 CatalogSaveCallbackModel
 CatalogSaveRequest
 CatalogSyncRequest
 Change Delivery Mode
-
 CouponInput
 CouponsInput
 Create Reservation Input
@@ -28,21 +15,15 @@ CreateReservationOutput
 Customer Feedback
 CustomerInput
 CustomerLoyaltyLot
-Empty schema
 EnterpriseCatalog
-Error Schema
 GoodsReceivedNote
+
+
+
 Indent
-InventoryItemInput
-InventoryItemResult
-InventoryTax
 Item
 Item sold summary
 ItemActivityResult
-ItemStockInput
-ItemStockOutput
-ItemStockResult
-Offline Payment Input
 post Sale
 predefined list of tags
 PurchaseOrder
