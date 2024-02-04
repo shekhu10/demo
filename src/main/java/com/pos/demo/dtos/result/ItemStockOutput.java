@@ -1,4 +1,4 @@
-package com.pos.demo.models;
+package com.pos.demo.dtos.result;
 
 // Represents output for an item's current stock.
 public class ItemStockOutput {

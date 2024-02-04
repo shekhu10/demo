@@ -10,7 +10,7 @@ public class ContractInput {
     // Contract name (required)
     public String contractName;
 
-    // Status of the contract (required), using Enum for predefined values
+    // Status of the contract (required), using Enum for predefined values - [ Active, Inactive ]
     public ContractStatus status;
 
     // External Supplier Code (required)

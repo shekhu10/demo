@@ -1,5 +1,4 @@
 package com.pos.demo.dtos.result;
-import com.pos.demo.models.ItemStockOutput;
 
 import java.util.List;
 
